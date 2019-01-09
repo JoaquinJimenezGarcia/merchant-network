@@ -2,7 +2,7 @@
 
 A permissioned Blockchain
 
-##Prerequisites
+## Prerequisites
 Before installing this smart contract you must have installed NPM and YO (yaoman). Also, you must need Docker (https://docs.docker.com/install/linux/docker-ce/debian/#upgrade-docker-ce) and Docker Composer (https://docs.docker.com/compose/install/#install-compose).
 
 ### Installing Hyperledger Composer and Fabric
